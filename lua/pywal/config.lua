@@ -251,6 +251,9 @@ M.highlights_base = function (colors)
     -- BufferLine
     BufferLineIndicatorSelected = { fg = colors.color5 },
     BufferLineFill = { bg = colors.background },
+
+    -- Terminal colors
+
   }
 end
 
